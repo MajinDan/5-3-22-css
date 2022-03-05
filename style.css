@@ -2,5 +2,12 @@ body {
     background-color: aqua;
 }
 div {
-    border:solid black 10px;
+    border:solid black;
+}
+li {
+    display:inline;
+    padding-right: 30px ;
+}
+a {
+    text-decoration: none ;
 }
